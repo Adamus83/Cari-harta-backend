@@ -1,4 +1,8 @@
-import items from '../data/items.json' assert { type: 'json' };
+import fs from 'fs';
+import path from 'path';
+
+const itemsPath = path.join(process.cwd(), 'data', 'items.json');
+const items = JSON.parse(fs.readFileSync(itemsPath, 'utf8'));
 
 let currentHunt = null;
 let startTime = null;
@@ -11,7 +15,6 @@ export default function handler(req, res) {
   if (req.method === 'OPTIONS') return res.status(200).end();
   
   const now = Date.now();
-  // Reset hunt every 15 minutes
   if (!currentHunt || !startTime || (now - startTime) > 15*60*1000) {
     const randomItem = items[Math.floor(Math.random() * items.length)];
     currentHunt = {
