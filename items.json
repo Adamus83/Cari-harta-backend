@@ -1,0 +1,9002 @@
+[
+  {
+    "id": 1,
+    "name": "Debu #1",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 2,
+    "name": "Debu #2",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 3,
+    "name": "Debu #3",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 4,
+    "name": "Debu #4",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 5,
+    "name": "Debu #5",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 6,
+    "name": "Debu #6",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 7,
+    "name": "Debu #7",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 8,
+    "name": "Debu #8",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 9,
+    "name": "Debu #9",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 10,
+    "name": "Debu #10",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 11,
+    "name": "Debu #11",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 12,
+    "name": "Debu #12",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 13,
+    "name": "Debu #13",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 14,
+    "name": "Debu #14",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 15,
+    "name": "Debu #15",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 16,
+    "name": "Debu #16",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 17,
+    "name": "Debu #17",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 18,
+    "name": "Debu #18",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 19,
+    "name": "Debu #19",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 20,
+    "name": "Debu #20",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 21,
+    "name": "Debu #21",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 22,
+    "name": "Debu #22",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 23,
+    "name": "Debu #23",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 24,
+    "name": "Debu #24",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 25,
+    "name": "Debu #25",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 26,
+    "name": "Debu #26",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 27,
+    "name": "Debu #27",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 28,
+    "name": "Debu #28",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 29,
+    "name": "Debu #29",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 30,
+    "name": "Debu #30",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 31,
+    "name": "Debu #31",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 32,
+    "name": "Debu #32",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 33,
+    "name": "Debu #33",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 34,
+    "name": "Debu #34",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 35,
+    "name": "Debu #35",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 36,
+    "name": "Debu #36",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 37,
+    "name": "Debu #37",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 38,
+    "name": "Debu #38",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 39,
+    "name": "Debu #39",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 40,
+    "name": "Debu #40",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 41,
+    "name": "Debu #41",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 42,
+    "name": "Debu #42",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 43,
+    "name": "Debu #43",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 44,
+    "name": "Debu #44",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 45,
+    "name": "Debu #45",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 46,
+    "name": "Debu #46",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 47,
+    "name": "Debu #47",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 48,
+    "name": "Debu #48",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 49,
+    "name": "Debu #49",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 50,
+    "name": "Debu #50",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 51,
+    "name": "Debu #51",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 52,
+    "name": "Debu #52",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 53,
+    "name": "Debu #53",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 54,
+    "name": "Debu #54",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 55,
+    "name": "Debu #55",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 56,
+    "name": "Debu #56",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 57,
+    "name": "Debu #57",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 58,
+    "name": "Debu #58",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 59,
+    "name": "Debu #59",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 60,
+    "name": "Debu #60",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 61,
+    "name": "Debu #61",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 62,
+    "name": "Debu #62",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 63,
+    "name": "Debu #63",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 64,
+    "name": "Debu #64",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 65,
+    "name": "Debu #65",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 66,
+    "name": "Debu #66",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 67,
+    "name": "Debu #67",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 68,
+    "name": "Debu #68",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 69,
+    "name": "Debu #69",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 70,
+    "name": "Debu #70",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 71,
+    "name": "Debu #71",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 72,
+    "name": "Debu #72",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 73,
+    "name": "Debu #73",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 74,
+    "name": "Debu #74",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 75,
+    "name": "Debu #75",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 76,
+    "name": "Debu #76",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 77,
+    "name": "Debu #77",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 78,
+    "name": "Debu #78",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 79,
+    "name": "Debu #79",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 80,
+    "name": "Debu #80",
+    "tier": 1,
+    "tier_name": "Debu",
+    "base_points": 1,
+    "rarity_pct": 99,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 81,
+    "name": "Wajib #1",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 82,
+    "name": "Wajib #2",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 83,
+    "name": "Wajib #3",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 84,
+    "name": "Wajib #4",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 85,
+    "name": "Wajib #5",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 86,
+    "name": "Wajib #6",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 87,
+    "name": "Wajib #7",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 88,
+    "name": "Wajib #8",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 89,
+    "name": "Wajib #9",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 90,
+    "name": "Wajib #10",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 91,
+    "name": "Wajib #11",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 92,
+    "name": "Wajib #12",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 93,
+    "name": "Wajib #13",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 94,
+    "name": "Wajib #14",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 95,
+    "name": "Wajib #15",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 96,
+    "name": "Wajib #16",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 97,
+    "name": "Wajib #17",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 98,
+    "name": "Wajib #18",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 99,
+    "name": "Wajib #19",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 100,
+    "name": "Wajib #20",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 101,
+    "name": "Wajib #21",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 102,
+    "name": "Wajib #22",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 103,
+    "name": "Wajib #23",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 104,
+    "name": "Wajib #24",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 105,
+    "name": "Wajib #25",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 106,
+    "name": "Wajib #26",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 107,
+    "name": "Wajib #27",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 108,
+    "name": "Wajib #28",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 109,
+    "name": "Wajib #29",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 110,
+    "name": "Wajib #30",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 111,
+    "name": "Wajib #31",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 112,
+    "name": "Wajib #32",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 113,
+    "name": "Wajib #33",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 114,
+    "name": "Wajib #34",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 115,
+    "name": "Wajib #35",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 116,
+    "name": "Wajib #36",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 117,
+    "name": "Wajib #37",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 118,
+    "name": "Wajib #38",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 119,
+    "name": "Wajib #39",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 120,
+    "name": "Wajib #40",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 121,
+    "name": "Wajib #41",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 122,
+    "name": "Wajib #42",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 123,
+    "name": "Wajib #43",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 124,
+    "name": "Wajib #44",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 125,
+    "name": "Wajib #45",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 126,
+    "name": "Wajib #46",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 127,
+    "name": "Wajib #47",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 128,
+    "name": "Wajib #48",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 129,
+    "name": "Wajib #49",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 130,
+    "name": "Wajib #50",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 131,
+    "name": "Wajib #51",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 132,
+    "name": "Wajib #52",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 133,
+    "name": "Wajib #53",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 134,
+    "name": "Wajib #54",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 135,
+    "name": "Wajib #55",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 136,
+    "name": "Wajib #56",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 137,
+    "name": "Wajib #57",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 138,
+    "name": "Wajib #58",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 139,
+    "name": "Wajib #59",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 140,
+    "name": "Wajib #60",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 141,
+    "name": "Wajib #61",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 142,
+    "name": "Wajib #62",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 143,
+    "name": "Wajib #63",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 144,
+    "name": "Wajib #64",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 145,
+    "name": "Wajib #65",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 146,
+    "name": "Wajib #66",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 147,
+    "name": "Wajib #67",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 148,
+    "name": "Wajib #68",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 149,
+    "name": "Wajib #69",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 150,
+    "name": "Wajib #70",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 151,
+    "name": "Wajib #71",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 152,
+    "name": "Wajib #72",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 153,
+    "name": "Wajib #73",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 154,
+    "name": "Wajib #74",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 155,
+    "name": "Wajib #75",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 156,
+    "name": "Wajib #76",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 157,
+    "name": "Wajib #77",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 158,
+    "name": "Wajib #78",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 159,
+    "name": "Wajib #79",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 160,
+    "name": "Wajib #80",
+    "tier": 2,
+    "tier_name": "Wajib",
+    "base_points": 2,
+    "rarity_pct": 98,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 161,
+    "name": "Dapur Umum #1",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 162,
+    "name": "Dapur Umum #2",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 163,
+    "name": "Dapur Umum #3",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 164,
+    "name": "Dapur Umum #4",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 165,
+    "name": "Dapur Umum #5",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 166,
+    "name": "Dapur Umum #6",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 167,
+    "name": "Dapur Umum #7",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 168,
+    "name": "Dapur Umum #8",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 169,
+    "name": "Dapur Umum #9",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 170,
+    "name": "Dapur Umum #10",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 171,
+    "name": "Dapur Umum #11",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 172,
+    "name": "Dapur Umum #12",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 173,
+    "name": "Dapur Umum #13",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 174,
+    "name": "Dapur Umum #14",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 175,
+    "name": "Dapur Umum #15",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 176,
+    "name": "Dapur Umum #16",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 177,
+    "name": "Dapur Umum #17",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 178,
+    "name": "Dapur Umum #18",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 179,
+    "name": "Dapur Umum #19",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 180,
+    "name": "Dapur Umum #20",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 181,
+    "name": "Dapur Umum #21",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 182,
+    "name": "Dapur Umum #22",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 183,
+    "name": "Dapur Umum #23",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 184,
+    "name": "Dapur Umum #24",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 185,
+    "name": "Dapur Umum #25",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 186,
+    "name": "Dapur Umum #26",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 187,
+    "name": "Dapur Umum #27",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 188,
+    "name": "Dapur Umum #28",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 189,
+    "name": "Dapur Umum #29",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 190,
+    "name": "Dapur Umum #30",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 191,
+    "name": "Dapur Umum #31",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 192,
+    "name": "Dapur Umum #32",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 193,
+    "name": "Dapur Umum #33",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 194,
+    "name": "Dapur Umum #34",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 195,
+    "name": "Dapur Umum #35",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 196,
+    "name": "Dapur Umum #36",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 197,
+    "name": "Dapur Umum #37",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 198,
+    "name": "Dapur Umum #38",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 199,
+    "name": "Dapur Umum #39",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 200,
+    "name": "Dapur Umum #40",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 201,
+    "name": "Dapur Umum #41",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 202,
+    "name": "Dapur Umum #42",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 203,
+    "name": "Dapur Umum #43",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 204,
+    "name": "Dapur Umum #44",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 205,
+    "name": "Dapur Umum #45",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 206,
+    "name": "Dapur Umum #46",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 207,
+    "name": "Dapur Umum #47",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 208,
+    "name": "Dapur Umum #48",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 209,
+    "name": "Dapur Umum #49",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 210,
+    "name": "Dapur Umum #50",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 211,
+    "name": "Dapur Umum #51",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 212,
+    "name": "Dapur Umum #52",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 213,
+    "name": "Dapur Umum #53",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 214,
+    "name": "Dapur Umum #54",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 215,
+    "name": "Dapur Umum #55",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 216,
+    "name": "Dapur Umum #56",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 217,
+    "name": "Dapur Umum #57",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 218,
+    "name": "Dapur Umum #58",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 219,
+    "name": "Dapur Umum #59",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 220,
+    "name": "Dapur Umum #60",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 221,
+    "name": "Dapur Umum #61",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 222,
+    "name": "Dapur Umum #62",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 223,
+    "name": "Dapur Umum #63",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 224,
+    "name": "Dapur Umum #64",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 225,
+    "name": "Dapur Umum #65",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 226,
+    "name": "Dapur Umum #66",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 227,
+    "name": "Dapur Umum #67",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 228,
+    "name": "Dapur Umum #68",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 229,
+    "name": "Dapur Umum #69",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 230,
+    "name": "Dapur Umum #70",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 231,
+    "name": "Dapur Umum #71",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 232,
+    "name": "Dapur Umum #72",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 233,
+    "name": "Dapur Umum #73",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 234,
+    "name": "Dapur Umum #74",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 235,
+    "name": "Dapur Umum #75",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 236,
+    "name": "Dapur Umum #76",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 237,
+    "name": "Dapur Umum #77",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 238,
+    "name": "Dapur Umum #78",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 239,
+    "name": "Dapur Umum #79",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 240,
+    "name": "Dapur Umum #80",
+    "tier": 3,
+    "tier_name": "Dapur Umum",
+    "base_points": 3,
+    "rarity_pct": 95,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 241,
+    "name": "Kamar Mandi #1",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 242,
+    "name": "Kamar Mandi #2",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 243,
+    "name": "Kamar Mandi #3",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 244,
+    "name": "Kamar Mandi #4",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 245,
+    "name": "Kamar Mandi #5",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 246,
+    "name": "Kamar Mandi #6",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 247,
+    "name": "Kamar Mandi #7",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 248,
+    "name": "Kamar Mandi #8",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 249,
+    "name": "Kamar Mandi #9",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 250,
+    "name": "Kamar Mandi #10",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 251,
+    "name": "Kamar Mandi #11",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 252,
+    "name": "Kamar Mandi #12",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 253,
+    "name": "Kamar Mandi #13",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 254,
+    "name": "Kamar Mandi #14",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 255,
+    "name": "Kamar Mandi #15",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 256,
+    "name": "Kamar Mandi #16",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 257,
+    "name": "Kamar Mandi #17",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 258,
+    "name": "Kamar Mandi #18",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 259,
+    "name": "Kamar Mandi #19",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 260,
+    "name": "Kamar Mandi #20",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 261,
+    "name": "Kamar Mandi #21",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 262,
+    "name": "Kamar Mandi #22",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 263,
+    "name": "Kamar Mandi #23",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 264,
+    "name": "Kamar Mandi #24",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 265,
+    "name": "Kamar Mandi #25",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 266,
+    "name": "Kamar Mandi #26",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 267,
+    "name": "Kamar Mandi #27",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 268,
+    "name": "Kamar Mandi #28",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 269,
+    "name": "Kamar Mandi #29",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 270,
+    "name": "Kamar Mandi #30",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 271,
+    "name": "Kamar Mandi #31",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 272,
+    "name": "Kamar Mandi #32",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 273,
+    "name": "Kamar Mandi #33",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 274,
+    "name": "Kamar Mandi #34",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 275,
+    "name": "Kamar Mandi #35",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 276,
+    "name": "Kamar Mandi #36",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 277,
+    "name": "Kamar Mandi #37",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 278,
+    "name": "Kamar Mandi #38",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 279,
+    "name": "Kamar Mandi #39",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 280,
+    "name": "Kamar Mandi #40",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 281,
+    "name": "Kamar Mandi #41",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 282,
+    "name": "Kamar Mandi #42",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 283,
+    "name": "Kamar Mandi #43",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 284,
+    "name": "Kamar Mandi #44",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 285,
+    "name": "Kamar Mandi #45",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 286,
+    "name": "Kamar Mandi #46",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 287,
+    "name": "Kamar Mandi #47",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 288,
+    "name": "Kamar Mandi #48",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 289,
+    "name": "Kamar Mandi #49",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 290,
+    "name": "Kamar Mandi #50",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 291,
+    "name": "Kamar Mandi #51",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 292,
+    "name": "Kamar Mandi #52",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 293,
+    "name": "Kamar Mandi #53",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 294,
+    "name": "Kamar Mandi #54",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 295,
+    "name": "Kamar Mandi #55",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 296,
+    "name": "Kamar Mandi #56",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 297,
+    "name": "Kamar Mandi #57",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 298,
+    "name": "Kamar Mandi #58",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 299,
+    "name": "Kamar Mandi #59",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 300,
+    "name": "Kamar Mandi #60",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 301,
+    "name": "Kamar Mandi #61",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 302,
+    "name": "Kamar Mandi #62",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 303,
+    "name": "Kamar Mandi #63",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 304,
+    "name": "Kamar Mandi #64",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 305,
+    "name": "Kamar Mandi #65",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 306,
+    "name": "Kamar Mandi #66",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 307,
+    "name": "Kamar Mandi #67",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 308,
+    "name": "Kamar Mandi #68",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 309,
+    "name": "Kamar Mandi #69",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 310,
+    "name": "Kamar Mandi #70",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 311,
+    "name": "Kamar Mandi #71",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 312,
+    "name": "Kamar Mandi #72",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 313,
+    "name": "Kamar Mandi #73",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 314,
+    "name": "Kamar Mandi #74",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 315,
+    "name": "Kamar Mandi #75",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 316,
+    "name": "Kamar Mandi #76",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 317,
+    "name": "Kamar Mandi #77",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 318,
+    "name": "Kamar Mandi #78",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 319,
+    "name": "Kamar Mandi #79",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 320,
+    "name": "Kamar Mandi #80",
+    "tier": 4,
+    "tier_name": "Kamar Mandi",
+    "base_points": 4,
+    "rarity_pct": 94,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 321,
+    "name": "Listrik Dasar #1",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 322,
+    "name": "Listrik Dasar #2",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 323,
+    "name": "Listrik Dasar #3",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 324,
+    "name": "Listrik Dasar #4",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 325,
+    "name": "Listrik Dasar #5",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 326,
+    "name": "Listrik Dasar #6",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 327,
+    "name": "Listrik Dasar #7",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 328,
+    "name": "Listrik Dasar #8",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 329,
+    "name": "Listrik Dasar #9",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 330,
+    "name": "Listrik Dasar #10",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 331,
+    "name": "Listrik Dasar #11",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 332,
+    "name": "Listrik Dasar #12",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 333,
+    "name": "Listrik Dasar #13",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 334,
+    "name": "Listrik Dasar #14",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 335,
+    "name": "Listrik Dasar #15",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 336,
+    "name": "Listrik Dasar #16",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 337,
+    "name": "Listrik Dasar #17",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 338,
+    "name": "Listrik Dasar #18",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 339,
+    "name": "Listrik Dasar #19",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 340,
+    "name": "Listrik Dasar #20",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 341,
+    "name": "Listrik Dasar #21",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 342,
+    "name": "Listrik Dasar #22",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 343,
+    "name": "Listrik Dasar #23",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 344,
+    "name": "Listrik Dasar #24",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 345,
+    "name": "Listrik Dasar #25",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 346,
+    "name": "Listrik Dasar #26",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 347,
+    "name": "Listrik Dasar #27",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 348,
+    "name": "Listrik Dasar #28",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 349,
+    "name": "Listrik Dasar #29",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 350,
+    "name": "Listrik Dasar #30",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 351,
+    "name": "Listrik Dasar #31",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 352,
+    "name": "Listrik Dasar #32",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 353,
+    "name": "Listrik Dasar #33",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 354,
+    "name": "Listrik Dasar #34",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 355,
+    "name": "Listrik Dasar #35",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 356,
+    "name": "Listrik Dasar #36",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 357,
+    "name": "Listrik Dasar #37",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 358,
+    "name": "Listrik Dasar #38",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 359,
+    "name": "Listrik Dasar #39",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 360,
+    "name": "Listrik Dasar #40",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 361,
+    "name": "Listrik Dasar #41",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 362,
+    "name": "Listrik Dasar #42",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 363,
+    "name": "Listrik Dasar #43",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 364,
+    "name": "Listrik Dasar #44",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 365,
+    "name": "Listrik Dasar #45",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 366,
+    "name": "Listrik Dasar #46",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 367,
+    "name": "Listrik Dasar #47",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 368,
+    "name": "Listrik Dasar #48",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 369,
+    "name": "Listrik Dasar #49",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 370,
+    "name": "Listrik Dasar #50",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 371,
+    "name": "Listrik Dasar #51",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 372,
+    "name": "Listrik Dasar #52",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 373,
+    "name": "Listrik Dasar #53",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 374,
+    "name": "Listrik Dasar #54",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 375,
+    "name": "Listrik Dasar #55",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 376,
+    "name": "Listrik Dasar #56",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 377,
+    "name": "Listrik Dasar #57",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 378,
+    "name": "Listrik Dasar #58",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 379,
+    "name": "Listrik Dasar #59",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 380,
+    "name": "Listrik Dasar #60",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 381,
+    "name": "Listrik Dasar #61",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 382,
+    "name": "Listrik Dasar #62",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 383,
+    "name": "Listrik Dasar #63",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 384,
+    "name": "Listrik Dasar #64",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 385,
+    "name": "Listrik Dasar #65",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 386,
+    "name": "Listrik Dasar #66",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 387,
+    "name": "Listrik Dasar #67",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 388,
+    "name": "Listrik Dasar #68",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 389,
+    "name": "Listrik Dasar #69",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 390,
+    "name": "Listrik Dasar #70",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 391,
+    "name": "Listrik Dasar #71",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 392,
+    "name": "Listrik Dasar #72",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 393,
+    "name": "Listrik Dasar #73",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 394,
+    "name": "Listrik Dasar #74",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 395,
+    "name": "Listrik Dasar #75",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 396,
+    "name": "Listrik Dasar #76",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 397,
+    "name": "Listrik Dasar #77",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 398,
+    "name": "Listrik Dasar #78",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 399,
+    "name": "Listrik Dasar #79",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 400,
+    "name": "Listrik Dasar #80",
+    "tier": 5,
+    "tier_name": "Listrik Dasar",
+    "base_points": 5,
+    "rarity_pct": 92,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 401,
+    "name": "Pembersih #1",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 402,
+    "name": "Pembersih #2",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 403,
+    "name": "Pembersih #3",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 404,
+    "name": "Pembersih #4",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 405,
+    "name": "Pembersih #5",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 406,
+    "name": "Pembersih #6",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 407,
+    "name": "Pembersih #7",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 408,
+    "name": "Pembersih #8",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 409,
+    "name": "Pembersih #9",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 410,
+    "name": "Pembersih #10",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 411,
+    "name": "Pembersih #11",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 412,
+    "name": "Pembersih #12",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 413,
+    "name": "Pembersih #13",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 414,
+    "name": "Pembersih #14",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 415,
+    "name": "Pembersih #15",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 416,
+    "name": "Pembersih #16",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 417,
+    "name": "Pembersih #17",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 418,
+    "name": "Pembersih #18",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 419,
+    "name": "Pembersih #19",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 420,
+    "name": "Pembersih #20",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 421,
+    "name": "Pembersih #21",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 422,
+    "name": "Pembersih #22",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 423,
+    "name": "Pembersih #23",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 424,
+    "name": "Pembersih #24",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 425,
+    "name": "Pembersih #25",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 426,
+    "name": "Pembersih #26",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 427,
+    "name": "Pembersih #27",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 428,
+    "name": "Pembersih #28",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 429,
+    "name": "Pembersih #29",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 430,
+    "name": "Pembersih #30",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 431,
+    "name": "Pembersih #31",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 432,
+    "name": "Pembersih #32",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 433,
+    "name": "Pembersih #33",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 434,
+    "name": "Pembersih #34",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 435,
+    "name": "Pembersih #35",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 436,
+    "name": "Pembersih #36",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 437,
+    "name": "Pembersih #37",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 438,
+    "name": "Pembersih #38",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 439,
+    "name": "Pembersih #39",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 440,
+    "name": "Pembersih #40",
+    "tier": 6,
+    "tier_name": "Pembersih",
+    "base_points": 6,
+    "rarity_pct": 90,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 441,
+    "name": "Penyimpanan #1",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 442,
+    "name": "Penyimpanan #2",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 443,
+    "name": "Penyimpanan #3",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 444,
+    "name": "Penyimpanan #4",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 445,
+    "name": "Penyimpanan #5",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 446,
+    "name": "Penyimpanan #6",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 447,
+    "name": "Penyimpanan #7",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 448,
+    "name": "Penyimpanan #8",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 449,
+    "name": "Penyimpanan #9",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 450,
+    "name": "Penyimpanan #10",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 451,
+    "name": "Penyimpanan #11",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 452,
+    "name": "Penyimpanan #12",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 453,
+    "name": "Penyimpanan #13",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 454,
+    "name": "Penyimpanan #14",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 455,
+    "name": "Penyimpanan #15",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 456,
+    "name": "Penyimpanan #16",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 457,
+    "name": "Penyimpanan #17",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 458,
+    "name": "Penyimpanan #18",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 459,
+    "name": "Penyimpanan #19",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 460,
+    "name": "Penyimpanan #20",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 461,
+    "name": "Penyimpanan #21",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 462,
+    "name": "Penyimpanan #22",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 463,
+    "name": "Penyimpanan #23",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 464,
+    "name": "Penyimpanan #24",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 465,
+    "name": "Penyimpanan #25",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 466,
+    "name": "Penyimpanan #26",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 467,
+    "name": "Penyimpanan #27",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 468,
+    "name": "Penyimpanan #28",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 469,
+    "name": "Penyimpanan #29",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 470,
+    "name": "Penyimpanan #30",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 471,
+    "name": "Penyimpanan #31",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 472,
+    "name": "Penyimpanan #32",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 473,
+    "name": "Penyimpanan #33",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 474,
+    "name": "Penyimpanan #34",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 475,
+    "name": "Penyimpanan #35",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 476,
+    "name": "Penyimpanan #36",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 477,
+    "name": "Penyimpanan #37",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 478,
+    "name": "Penyimpanan #38",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 479,
+    "name": "Penyimpanan #39",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 480,
+    "name": "Penyimpanan #40",
+    "tier": 7,
+    "tier_name": "Penyimpanan",
+    "base_points": 7,
+    "rarity_pct": 88,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 481,
+    "name": "Tekstil #1",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 482,
+    "name": "Tekstil #2",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 483,
+    "name": "Tekstil #3",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 484,
+    "name": "Tekstil #4",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 485,
+    "name": "Tekstil #5",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 486,
+    "name": "Tekstil #6",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 487,
+    "name": "Tekstil #7",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 488,
+    "name": "Tekstil #8",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 489,
+    "name": "Tekstil #9",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 490,
+    "name": "Tekstil #10",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 491,
+    "name": "Tekstil #11",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 492,
+    "name": "Tekstil #12",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 493,
+    "name": "Tekstil #13",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 494,
+    "name": "Tekstil #14",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 495,
+    "name": "Tekstil #15",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 496,
+    "name": "Tekstil #16",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 497,
+    "name": "Tekstil #17",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 498,
+    "name": "Tekstil #18",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 499,
+    "name": "Tekstil #19",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 500,
+    "name": "Tekstil #20",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 501,
+    "name": "Tekstil #21",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 502,
+    "name": "Tekstil #22",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 503,
+    "name": "Tekstil #23",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 504,
+    "name": "Tekstil #24",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 505,
+    "name": "Tekstil #25",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 506,
+    "name": "Tekstil #26",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 507,
+    "name": "Tekstil #27",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 508,
+    "name": "Tekstil #28",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 509,
+    "name": "Tekstil #29",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 510,
+    "name": "Tekstil #30",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 511,
+    "name": "Tekstil #31",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 512,
+    "name": "Tekstil #32",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 513,
+    "name": "Tekstil #33",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 514,
+    "name": "Tekstil #34",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 515,
+    "name": "Tekstil #35",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 516,
+    "name": "Tekstil #36",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 517,
+    "name": "Tekstil #37",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 518,
+    "name": "Tekstil #38",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 519,
+    "name": "Tekstil #39",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 520,
+    "name": "Tekstil #40",
+    "tier": 8,
+    "tier_name": "Tekstil",
+    "base_points": 8,
+    "rarity_pct": 85,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 521,
+    "name": "Alat Tulis #1",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 522,
+    "name": "Alat Tulis #2",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 523,
+    "name": "Alat Tulis #3",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 524,
+    "name": "Alat Tulis #4",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 525,
+    "name": "Alat Tulis #5",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 526,
+    "name": "Alat Tulis #6",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 527,
+    "name": "Alat Tulis #7",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 528,
+    "name": "Alat Tulis #8",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 529,
+    "name": "Alat Tulis #9",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 530,
+    "name": "Alat Tulis #10",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 531,
+    "name": "Alat Tulis #11",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 532,
+    "name": "Alat Tulis #12",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 533,
+    "name": "Alat Tulis #13",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 534,
+    "name": "Alat Tulis #14",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 535,
+    "name": "Alat Tulis #15",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 536,
+    "name": "Alat Tulis #16",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 537,
+    "name": "Alat Tulis #17",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 538,
+    "name": "Alat Tulis #18",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 539,
+    "name": "Alat Tulis #19",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 540,
+    "name": "Alat Tulis #20",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 541,
+    "name": "Alat Tulis #21",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 542,
+    "name": "Alat Tulis #22",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 543,
+    "name": "Alat Tulis #23",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 544,
+    "name": "Alat Tulis #24",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 545,
+    "name": "Alat Tulis #25",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 546,
+    "name": "Alat Tulis #26",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 547,
+    "name": "Alat Tulis #27",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 548,
+    "name": "Alat Tulis #28",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 549,
+    "name": "Alat Tulis #29",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 550,
+    "name": "Alat Tulis #30",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 551,
+    "name": "Alat Tulis #31",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 552,
+    "name": "Alat Tulis #32",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 553,
+    "name": "Alat Tulis #33",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 554,
+    "name": "Alat Tulis #34",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 555,
+    "name": "Alat Tulis #35",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 556,
+    "name": "Alat Tulis #36",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 557,
+    "name": "Alat Tulis #37",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 558,
+    "name": "Alat Tulis #38",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 559,
+    "name": "Alat Tulis #39",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 560,
+    "name": "Alat Tulis #40",
+    "tier": 9,
+    "tier_name": "Alat Tulis",
+    "base_points": 9,
+    "rarity_pct": 82,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 561,
+    "name": "Dapur Menengah #1",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 562,
+    "name": "Dapur Menengah #2",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 563,
+    "name": "Dapur Menengah #3",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 564,
+    "name": "Dapur Menengah #4",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 565,
+    "name": "Dapur Menengah #5",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 566,
+    "name": "Dapur Menengah #6",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 567,
+    "name": "Dapur Menengah #7",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 568,
+    "name": "Dapur Menengah #8",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 569,
+    "name": "Dapur Menengah #9",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 570,
+    "name": "Dapur Menengah #10",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 571,
+    "name": "Dapur Menengah #11",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 572,
+    "name": "Dapur Menengah #12",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 573,
+    "name": "Dapur Menengah #13",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 574,
+    "name": "Dapur Menengah #14",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 575,
+    "name": "Dapur Menengah #15",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 576,
+    "name": "Dapur Menengah #16",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 577,
+    "name": "Dapur Menengah #17",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 578,
+    "name": "Dapur Menengah #18",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 579,
+    "name": "Dapur Menengah #19",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 580,
+    "name": "Dapur Menengah #20",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 581,
+    "name": "Dapur Menengah #21",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 582,
+    "name": "Dapur Menengah #22",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 583,
+    "name": "Dapur Menengah #23",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 584,
+    "name": "Dapur Menengah #24",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 585,
+    "name": "Dapur Menengah #25",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 586,
+    "name": "Dapur Menengah #26",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 587,
+    "name": "Dapur Menengah #27",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 588,
+    "name": "Dapur Menengah #28",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 589,
+    "name": "Dapur Menengah #29",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 590,
+    "name": "Dapur Menengah #30",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 591,
+    "name": "Dapur Menengah #31",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 592,
+    "name": "Dapur Menengah #32",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 593,
+    "name": "Dapur Menengah #33",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 594,
+    "name": "Dapur Menengah #34",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 595,
+    "name": "Dapur Menengah #35",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 596,
+    "name": "Dapur Menengah #36",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 597,
+    "name": "Dapur Menengah #37",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 598,
+    "name": "Dapur Menengah #38",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 599,
+    "name": "Dapur Menengah #39",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 600,
+    "name": "Dapur Menengah #40",
+    "tier": 10,
+    "tier_name": "Dapur Menengah",
+    "base_points": 10,
+    "rarity_pct": 78,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 601,
+    "name": "Perkakas Ringan #1",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 602,
+    "name": "Perkakas Ringan #2",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 603,
+    "name": "Perkakas Ringan #3",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 604,
+    "name": "Perkakas Ringan #4",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 605,
+    "name": "Perkakas Ringan #5",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 606,
+    "name": "Perkakas Ringan #6",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 607,
+    "name": "Perkakas Ringan #7",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 608,
+    "name": "Perkakas Ringan #8",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 609,
+    "name": "Perkakas Ringan #9",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 610,
+    "name": "Perkakas Ringan #10",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 611,
+    "name": "Perkakas Ringan #11",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 612,
+    "name": "Perkakas Ringan #12",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 613,
+    "name": "Perkakas Ringan #13",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 614,
+    "name": "Perkakas Ringan #14",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 615,
+    "name": "Perkakas Ringan #15",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 616,
+    "name": "Perkakas Ringan #16",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 617,
+    "name": "Perkakas Ringan #17",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 618,
+    "name": "Perkakas Ringan #18",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 619,
+    "name": "Perkakas Ringan #19",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 620,
+    "name": "Perkakas Ringan #20",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 621,
+    "name": "Perkakas Ringan #21",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 622,
+    "name": "Perkakas Ringan #22",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 623,
+    "name": "Perkakas Ringan #23",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 624,
+    "name": "Perkakas Ringan #24",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 625,
+    "name": "Perkakas Ringan #25",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 626,
+    "name": "Perkakas Ringan #26",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 627,
+    "name": "Perkakas Ringan #27",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 628,
+    "name": "Perkakas Ringan #28",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 629,
+    "name": "Perkakas Ringan #29",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 630,
+    "name": "Perkakas Ringan #30",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 631,
+    "name": "Perkakas Ringan #31",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 632,
+    "name": "Perkakas Ringan #32",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 633,
+    "name": "Perkakas Ringan #33",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 634,
+    "name": "Perkakas Ringan #34",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 635,
+    "name": "Perkakas Ringan #35",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 636,
+    "name": "Perkakas Ringan #36",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 637,
+    "name": "Perkakas Ringan #37",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 638,
+    "name": "Perkakas Ringan #38",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 639,
+    "name": "Perkakas Ringan #39",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 640,
+    "name": "Perkakas Ringan #40",
+    "tier": 11,
+    "tier_name": "Perkakas Ringan",
+    "base_points": 12,
+    "rarity_pct": 72,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 641,
+    "name": "Elektronik Kecil #1",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 642,
+    "name": "Elektronik Kecil #2",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 643,
+    "name": "Elektronik Kecil #3",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 644,
+    "name": "Elektronik Kecil #4",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 645,
+    "name": "Elektronik Kecil #5",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 646,
+    "name": "Elektronik Kecil #6",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 647,
+    "name": "Elektronik Kecil #7",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 648,
+    "name": "Elektronik Kecil #8",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 649,
+    "name": "Elektronik Kecil #9",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 650,
+    "name": "Elektronik Kecil #10",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 651,
+    "name": "Elektronik Kecil #11",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 652,
+    "name": "Elektronik Kecil #12",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 653,
+    "name": "Elektronik Kecil #13",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 654,
+    "name": "Elektronik Kecil #14",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 655,
+    "name": "Elektronik Kecil #15",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 656,
+    "name": "Elektronik Kecil #16",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 657,
+    "name": "Elektronik Kecil #17",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 658,
+    "name": "Elektronik Kecil #18",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 659,
+    "name": "Elektronik Kecil #19",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 660,
+    "name": "Elektronik Kecil #20",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 661,
+    "name": "Elektronik Kecil #21",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 662,
+    "name": "Elektronik Kecil #22",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 663,
+    "name": "Elektronik Kecil #23",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 664,
+    "name": "Elektronik Kecil #24",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 665,
+    "name": "Elektronik Kecil #25",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 666,
+    "name": "Elektronik Kecil #26",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 667,
+    "name": "Elektronik Kecil #27",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 668,
+    "name": "Elektronik Kecil #28",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 669,
+    "name": "Elektronik Kecil #29",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 670,
+    "name": "Elektronik Kecil #30",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 671,
+    "name": "Elektronik Kecil #31",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 672,
+    "name": "Elektronik Kecil #32",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 673,
+    "name": "Elektronik Kecil #33",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 674,
+    "name": "Elektronik Kecil #34",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 675,
+    "name": "Elektronik Kecil #35",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 676,
+    "name": "Elektronik Kecil #36",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 677,
+    "name": "Elektronik Kecil #37",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 678,
+    "name": "Elektronik Kecil #38",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 679,
+    "name": "Elektronik Kecil #39",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 680,
+    "name": "Elektronik Kecil #40",
+    "tier": 12,
+    "tier_name": "Elektronik Kecil",
+    "base_points": 14,
+    "rarity_pct": 68,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 681,
+    "name": "Dapur Spesifik #1",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 682,
+    "name": "Dapur Spesifik #2",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 683,
+    "name": "Dapur Spesifik #3",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 684,
+    "name": "Dapur Spesifik #4",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 685,
+    "name": "Dapur Spesifik #5",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 686,
+    "name": "Dapur Spesifik #6",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 687,
+    "name": "Dapur Spesifik #7",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 688,
+    "name": "Dapur Spesifik #8",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 689,
+    "name": "Dapur Spesifik #9",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 690,
+    "name": "Dapur Spesifik #10",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 691,
+    "name": "Dapur Spesifik #11",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 692,
+    "name": "Dapur Spesifik #12",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 693,
+    "name": "Dapur Spesifik #13",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 694,
+    "name": "Dapur Spesifik #14",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 695,
+    "name": "Dapur Spesifik #15",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 696,
+    "name": "Dapur Spesifik #16",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 697,
+    "name": "Dapur Spesifik #17",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 698,
+    "name": "Dapur Spesifik #18",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 699,
+    "name": "Dapur Spesifik #19",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 700,
+    "name": "Dapur Spesifik #20",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 701,
+    "name": "Dapur Spesifik #21",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 702,
+    "name": "Dapur Spesifik #22",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 703,
+    "name": "Dapur Spesifik #23",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 704,
+    "name": "Dapur Spesifik #24",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 705,
+    "name": "Dapur Spesifik #25",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 706,
+    "name": "Dapur Spesifik #26",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 707,
+    "name": "Dapur Spesifik #27",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 708,
+    "name": "Dapur Spesifik #28",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 709,
+    "name": "Dapur Spesifik #29",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 710,
+    "name": "Dapur Spesifik #30",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 711,
+    "name": "Dapur Spesifik #31",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 712,
+    "name": "Dapur Spesifik #32",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 713,
+    "name": "Dapur Spesifik #33",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 714,
+    "name": "Dapur Spesifik #34",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 715,
+    "name": "Dapur Spesifik #35",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 716,
+    "name": "Dapur Spesifik #36",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 717,
+    "name": "Dapur Spesifik #37",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 718,
+    "name": "Dapur Spesifik #38",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 719,
+    "name": "Dapur Spesifik #39",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 720,
+    "name": "Dapur Spesifik #40",
+    "tier": 13,
+    "tier_name": "Dapur Spesifik",
+    "base_points": 16,
+    "rarity_pct": 62,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 721,
+    "name": "Hobi #1",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 722,
+    "name": "Hobi #2",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 723,
+    "name": "Hobi #3",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 724,
+    "name": "Hobi #4",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 725,
+    "name": "Hobi #5",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 726,
+    "name": "Hobi #6",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 727,
+    "name": "Hobi #7",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 728,
+    "name": "Hobi #8",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 729,
+    "name": "Hobi #9",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 730,
+    "name": "Hobi #10",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 731,
+    "name": "Hobi #11",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 732,
+    "name": "Hobi #12",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 733,
+    "name": "Hobi #13",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 734,
+    "name": "Hobi #14",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 735,
+    "name": "Hobi #15",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 736,
+    "name": "Hobi #16",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 737,
+    "name": "Hobi #17",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 738,
+    "name": "Hobi #18",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 739,
+    "name": "Hobi #19",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 740,
+    "name": "Hobi #20",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 741,
+    "name": "Hobi #21",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 742,
+    "name": "Hobi #22",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 743,
+    "name": "Hobi #23",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 744,
+    "name": "Hobi #24",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 745,
+    "name": "Hobi #25",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 746,
+    "name": "Hobi #26",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 747,
+    "name": "Hobi #27",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 748,
+    "name": "Hobi #28",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 749,
+    "name": "Hobi #29",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 750,
+    "name": "Hobi #30",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 751,
+    "name": "Hobi #31",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 752,
+    "name": "Hobi #32",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 753,
+    "name": "Hobi #33",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 754,
+    "name": "Hobi #34",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 755,
+    "name": "Hobi #35",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 756,
+    "name": "Hobi #36",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 757,
+    "name": "Hobi #37",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 758,
+    "name": "Hobi #38",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 759,
+    "name": "Hobi #39",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 760,
+    "name": "Hobi #40",
+    "tier": 14,
+    "tier_name": "Hobi",
+    "base_points": 18,
+    "rarity_pct": 55,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 761,
+    "name": "Musiman #1",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 762,
+    "name": "Musiman #2",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 763,
+    "name": "Musiman #3",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 764,
+    "name": "Musiman #4",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 765,
+    "name": "Musiman #5",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 766,
+    "name": "Musiman #6",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 767,
+    "name": "Musiman #7",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 768,
+    "name": "Musiman #8",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 769,
+    "name": "Musiman #9",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 770,
+    "name": "Musiman #10",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 771,
+    "name": "Musiman #11",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 772,
+    "name": "Musiman #12",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 773,
+    "name": "Musiman #13",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 774,
+    "name": "Musiman #14",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 775,
+    "name": "Musiman #15",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 776,
+    "name": "Musiman #16",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 777,
+    "name": "Musiman #17",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 778,
+    "name": "Musiman #18",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 779,
+    "name": "Musiman #19",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 780,
+    "name": "Musiman #20",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 781,
+    "name": "Musiman #21",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 782,
+    "name": "Musiman #22",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 783,
+    "name": "Musiman #23",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 784,
+    "name": "Musiman #24",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 785,
+    "name": "Musiman #25",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 786,
+    "name": "Musiman #26",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 787,
+    "name": "Musiman #27",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 788,
+    "name": "Musiman #28",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 789,
+    "name": "Musiman #29",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 790,
+    "name": "Musiman #30",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 791,
+    "name": "Musiman #31",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 792,
+    "name": "Musiman #32",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 793,
+    "name": "Musiman #33",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 794,
+    "name": "Musiman #34",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 795,
+    "name": "Musiman #35",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 796,
+    "name": "Musiman #36",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 797,
+    "name": "Musiman #37",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 798,
+    "name": "Musiman #38",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 799,
+    "name": "Musiman #39",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 800,
+    "name": "Musiman #40",
+    "tier": 15,
+    "tier_name": "Musiman",
+    "base_points": 21,
+    "rarity_pct": 48,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 801,
+    "name": "Vintage #1",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 802,
+    "name": "Vintage #2",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 803,
+    "name": "Vintage #3",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 804,
+    "name": "Vintage #4",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 805,
+    "name": "Vintage #5",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 806,
+    "name": "Vintage #6",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 807,
+    "name": "Vintage #7",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 808,
+    "name": "Vintage #8",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 809,
+    "name": "Vintage #9",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 810,
+    "name": "Vintage #10",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 811,
+    "name": "Vintage #11",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 812,
+    "name": "Vintage #12",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 813,
+    "name": "Vintage #13",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 814,
+    "name": "Vintage #14",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 815,
+    "name": "Vintage #15",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 816,
+    "name": "Vintage #16",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 817,
+    "name": "Vintage #17",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 818,
+    "name": "Vintage #18",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 819,
+    "name": "Vintage #19",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 820,
+    "name": "Vintage #20",
+    "tier": 16,
+    "tier_name": "Vintage",
+    "base_points": 24,
+    "rarity_pct": 40,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 821,
+    "name": "Perbaikan #1",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 822,
+    "name": "Perbaikan #2",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 823,
+    "name": "Perbaikan #3",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 824,
+    "name": "Perbaikan #4",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 825,
+    "name": "Perbaikan #5",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 826,
+    "name": "Perbaikan #6",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 827,
+    "name": "Perbaikan #7",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 828,
+    "name": "Perbaikan #8",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 829,
+    "name": "Perbaikan #9",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 830,
+    "name": "Perbaikan #10",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 831,
+    "name": "Perbaikan #11",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 832,
+    "name": "Perbaikan #12",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 833,
+    "name": "Perbaikan #13",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 834,
+    "name": "Perbaikan #14",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 835,
+    "name": "Perbaikan #15",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 836,
+    "name": "Perbaikan #16",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 837,
+    "name": "Perbaikan #17",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 838,
+    "name": "Perbaikan #18",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 839,
+    "name": "Perbaikan #19",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 840,
+    "name": "Perbaikan #20",
+    "tier": 17,
+    "tier_name": "Perbaikan",
+    "base_points": 28,
+    "rarity_pct": 33,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 841,
+    "name": "Dapur Langka #1",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 842,
+    "name": "Dapur Langka #2",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 843,
+    "name": "Dapur Langka #3",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 844,
+    "name": "Dapur Langka #4",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 845,
+    "name": "Dapur Langka #5",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 846,
+    "name": "Dapur Langka #6",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 847,
+    "name": "Dapur Langka #7",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 848,
+    "name": "Dapur Langka #8",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 849,
+    "name": "Dapur Langka #9",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 850,
+    "name": "Dapur Langka #10",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 851,
+    "name": "Dapur Langka #11",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 852,
+    "name": "Dapur Langka #12",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 853,
+    "name": "Dapur Langka #13",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 854,
+    "name": "Dapur Langka #14",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 855,
+    "name": "Dapur Langka #15",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 856,
+    "name": "Dapur Langka #16",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 857,
+    "name": "Dapur Langka #17",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 858,
+    "name": "Dapur Langka #18",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 859,
+    "name": "Dapur Langka #19",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 860,
+    "name": "Dapur Langka #20",
+    "tier": 18,
+    "tier_name": "Dapur Langka",
+    "base_points": 32,
+    "rarity_pct": 26,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 861,
+    "name": "Koleksi #1",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 862,
+    "name": "Koleksi #2",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 863,
+    "name": "Koleksi #3",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 864,
+    "name": "Koleksi #4",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 865,
+    "name": "Koleksi #5",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 866,
+    "name": "Koleksi #6",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 867,
+    "name": "Koleksi #7",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 868,
+    "name": "Koleksi #8",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 869,
+    "name": "Koleksi #9",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 870,
+    "name": "Koleksi #10",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 871,
+    "name": "Koleksi #11",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 872,
+    "name": "Koleksi #12",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 873,
+    "name": "Koleksi #13",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 874,
+    "name": "Koleksi #14",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 875,
+    "name": "Koleksi #15",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 876,
+    "name": "Koleksi #16",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 877,
+    "name": "Koleksi #17",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 878,
+    "name": "Koleksi #18",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 879,
+    "name": "Koleksi #19",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 880,
+    "name": "Koleksi #20",
+    "tier": 19,
+    "tier_name": "Koleksi",
+    "base_points": 37,
+    "rarity_pct": 20,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 881,
+    "name": "Elektronik Tua #1",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 882,
+    "name": "Elektronik Tua #2",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 883,
+    "name": "Elektronik Tua #3",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 884,
+    "name": "Elektronik Tua #4",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 885,
+    "name": "Elektronik Tua #5",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 886,
+    "name": "Elektronik Tua #6",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 887,
+    "name": "Elektronik Tua #7",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 888,
+    "name": "Elektronik Tua #8",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 889,
+    "name": "Elektronik Tua #9",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 890,
+    "name": "Elektronik Tua #10",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 891,
+    "name": "Elektronik Tua #11",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 892,
+    "name": "Elektronik Tua #12",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 893,
+    "name": "Elektronik Tua #13",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 894,
+    "name": "Elektronik Tua #14",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 895,
+    "name": "Elektronik Tua #15",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 896,
+    "name": "Elektronik Tua #16",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 897,
+    "name": "Elektronik Tua #17",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 898,
+    "name": "Elektronik Tua #18",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 899,
+    "name": "Elektronik Tua #19",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 900,
+    "name": "Elektronik Tua #20",
+    "tier": 20,
+    "tier_name": "Elektronik Tua",
+    "base_points": 42,
+    "rarity_pct": 15,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 901,
+    "name": "Pusaka Dapur #1",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 902,
+    "name": "Pusaka Dapur #2",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 903,
+    "name": "Pusaka Dapur #3",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 904,
+    "name": "Pusaka Dapur #4",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 905,
+    "name": "Pusaka Dapur #5",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 906,
+    "name": "Pusaka Dapur #6",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 907,
+    "name": "Pusaka Dapur #7",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 908,
+    "name": "Pusaka Dapur #8",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 909,
+    "name": "Pusaka Dapur #9",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 910,
+    "name": "Pusaka Dapur #10",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 911,
+    "name": "Pusaka Dapur #11",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 912,
+    "name": "Pusaka Dapur #12",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 913,
+    "name": "Pusaka Dapur #13",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 914,
+    "name": "Pusaka Dapur #14",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 915,
+    "name": "Pusaka Dapur #15",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 916,
+    "name": "Pusaka Dapur #16",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 917,
+    "name": "Pusaka Dapur #17",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 918,
+    "name": "Pusaka Dapur #18",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 919,
+    "name": "Pusaka Dapur #19",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 920,
+    "name": "Pusaka Dapur #20",
+    "tier": 21,
+    "tier_name": "Pusaka Dapur",
+    "base_points": 48,
+    "rarity_pct": 11,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 921,
+    "name": "Warisan #1",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 922,
+    "name": "Warisan #2",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 923,
+    "name": "Warisan #3",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 924,
+    "name": "Warisan #4",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 925,
+    "name": "Warisan #5",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 926,
+    "name": "Warisan #6",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 927,
+    "name": "Warisan #7",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 928,
+    "name": "Warisan #8",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 929,
+    "name": "Warisan #9",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 930,
+    "name": "Warisan #10",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 931,
+    "name": "Warisan #11",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 932,
+    "name": "Warisan #12",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 933,
+    "name": "Warisan #13",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 934,
+    "name": "Warisan #14",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 935,
+    "name": "Warisan #15",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 936,
+    "name": "Warisan #16",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 937,
+    "name": "Warisan #17",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 938,
+    "name": "Warisan #18",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 939,
+    "name": "Warisan #19",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 940,
+    "name": "Warisan #20",
+    "tier": 22,
+    "tier_name": "Warisan",
+    "base_points": 55,
+    "rarity_pct": 7,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 941,
+    "name": "Antik #1",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 942,
+    "name": "Antik #2",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 943,
+    "name": "Antik #3",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 944,
+    "name": "Antik #4",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 945,
+    "name": "Antik #5",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 946,
+    "name": "Antik #6",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 947,
+    "name": "Antik #7",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 948,
+    "name": "Antik #8",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 949,
+    "name": "Antik #9",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 950,
+    "name": "Antik #10",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 951,
+    "name": "Antik #11",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 952,
+    "name": "Antik #12",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 953,
+    "name": "Antik #13",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 954,
+    "name": "Antik #14",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 955,
+    "name": "Antik #15",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 956,
+    "name": "Antik #16",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 957,
+    "name": "Antik #17",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 958,
+    "name": "Antik #18",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 959,
+    "name": "Antik #19",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 960,
+    "name": "Antik #20",
+    "tier": 23,
+    "tier_name": "Antik",
+    "base_points": 63,
+    "rarity_pct": 4,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 961,
+    "name": "Legenda #1",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 962,
+    "name": "Legenda #2",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 963,
+    "name": "Legenda #3",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 964,
+    "name": "Legenda #4",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 965,
+    "name": "Legenda #5",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 966,
+    "name": "Legenda #6",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 967,
+    "name": "Legenda #7",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 968,
+    "name": "Legenda #8",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 969,
+    "name": "Legenda #9",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 970,
+    "name": "Legenda #10",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 971,
+    "name": "Legenda #11",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 972,
+    "name": "Legenda #12",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 973,
+    "name": "Legenda #13",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 974,
+    "name": "Legenda #14",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 975,
+    "name": "Legenda #15",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 976,
+    "name": "Legenda #16",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 977,
+    "name": "Legenda #17",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 978,
+    "name": "Legenda #18",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 979,
+    "name": "Legenda #19",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 980,
+    "name": "Legenda #20",
+    "tier": 24,
+    "tier_name": "Legenda",
+    "base_points": 72,
+    "rarity_pct": 2,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 981,
+    "name": "Mitos Rumah #1",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 982,
+    "name": "Mitos Rumah #2",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 983,
+    "name": "Mitos Rumah #3",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 984,
+    "name": "Mitos Rumah #4",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 985,
+    "name": "Mitos Rumah #5",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 986,
+    "name": "Mitos Rumah #6",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 987,
+    "name": "Mitos Rumah #7",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 988,
+    "name": "Mitos Rumah #8",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 989,
+    "name": "Mitos Rumah #9",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 990,
+    "name": "Mitos Rumah #10",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 991,
+    "name": "Mitos Rumah #11",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di kamar mandi"
+  },
+  {
+    "id": 992,
+    "name": "Mitos Rumah #12",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 993,
+    "name": "Mitos Rumah #13",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 994,
+    "name": "Mitos Rumah #14",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di kamar tidur"
+  },
+  {
+    "id": 995,
+    "name": "Mitos Rumah #15",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di gudang"
+  },
+  {
+    "id": 996,
+    "name": "Mitos Rumah #16",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 997,
+    "name": "Mitos Rumah #17",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 998,
+    "name": "Mitos Rumah #18",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di ruang tamu"
+  },
+  {
+    "id": 999,
+    "name": "Mitos Rumah #19",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di dapur"
+  },
+  {
+    "id": 1000,
+    "name": "Mitos Rumah #20",
+    "tier": 25,
+    "tier_name": "Mitos Rumah",
+    "base_points": 85,
+    "rarity_pct": 0.5,
+    "hint": "Biasanya di kamar mandi"
+  }
+]
